@@ -9,14 +9,12 @@ body{
 .row1{
   height: 100px;
   width: 50%;
-  border: 2px solid black;
   float: left;
 }
 
 .row2{
   height: 100px;
   width: 50%;
-  border: 2px solid black;
   float: right;
 }
 [class*="col-"]{
