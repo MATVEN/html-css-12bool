@@ -15,7 +15,9 @@ display: table;
 clear: both;
 }
 
-
+.row1{
+  width: 50%;
+}
 /* column rules */
 [class*="col-"] {
 float: left;
@@ -59,7 +61,7 @@ float: left;
 }
 
 .col-10{
-  width: calc( 100% / 12) * 10);
+  width: calc(( 100% / 12) * 10);
 }
 
 .col-11{
