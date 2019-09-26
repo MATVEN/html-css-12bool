@@ -6,17 +6,6 @@ body{
   height: 100px;
 }
 
-.row1{
-  height: 100px;
-  width: 50%;
-  float: left;
-}
-
-.row2{
-  height: 100px;
-  width: 50%;
-  float: right;
-}
 [class*="col-"]{
   height: 100%;
   border: 1px solid black;
