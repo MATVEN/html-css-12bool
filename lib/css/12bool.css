@@ -53,7 +53,7 @@ float: left;
 }
 
 .col-8{
-  width: calc(( 100% / 12)( * 8);
+  width: calc(( 100% / 12) * 8);
 }
 
 .col-9{
